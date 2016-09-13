@@ -1,5 +1,5 @@
 <?php
 
-phpinfo();
+Echo "PHP is zo 2015..."
 
 ?>
